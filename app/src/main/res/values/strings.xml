@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Homework 2</string>
+
+    <string name="menu_text">Welcome to the Jojo\'s Bizarre Adventure Plot Summary App</string>
+
+    <string name="action_create_order">View Plot Summaries</string>
+
+    <string-array name="menu">
+        <item>Part 1: Phantom Blood</item>
+        <item>Part 2: Battle Tendency</item>
+        <item>Part 3: Stardust Crusaders</item>
+        <item>Part 4: Diamond is Unbreakable</item>
+    </string-array>
+
+    <string name="phantom_blood">
+        JoJo\'s Bizarre Adventure volumes 1 to 5. In the 1880s in Great Britain, the young Jonathan
+        Joestar meets his new adopted brother Dio Brando, who only wants to usurp Jonathan as heir
+        to the Joestar family. However, his attempts are thwarted and he resorts to using an ancient
+        Stone Mask which transforms him into a vampire. Jonathan, with Italian Hamon master Will
+        A. Zeppeli and former street thug Robert E.O. Speedwagon at his side, must now find a way
+        to stop Dio using his newly found affinity for the Ripple martial arts now that Dio\'s
+        sights are set on nothing less than world domination.
+    </string>
+
+    <string name="battle_tendency">
+        JoJo\'s Bizarre Adventure volumes 5 to 12. In New York City in 1938, Joseph Joestar, grandson
+        of Jonathan, who has a natural affinity for the Hamon technique, becomes entangled in his
+        grandfather\'s destiny when the Pillar Men, supernatural beings of impossible power, awaken
+        after failed experiments by Nazi German special forces. Joseph ultimately teams up with
+        Caesar Zeppeli, Will\'s grandson, and Caesar\'s teacher Lisa Lisa, a woman mysteriously tied
+        to Joseph, to stop the Pillar Men from obtaining a mystical artifact in Lisa Lisa\'s
+        possession that will grant them complete immortality and bring about the end of the world
+        at their hands, so long as Joseph can master the Hamon technique to beat the Pillar Men in
+        a rematch for the antidotes to poisons they implanted in his body.
+    </string>
+
+    <string name="stardust_crusaders">
+        JoJo\'s Bizarre Adventure volumes 12 to 28. In 1989, Jotaro Kujo, a Japanese high school
+        student, places himself in jail because he believes he is possessed by an evil spirit. His
+        mother Holly calls on her father Joseph Joestar to talk sense into Jotaro, and with the
+        help of his ally the Egyptian fortune teller Mohammed Avdol, reveals that Jotaro has in fact
+        developed a supernatural ability known as a Stand that has run through the family due to the
+        revival of their ancestor\'s foe Dio. After thwarting an assassination attempt by transfer
+        student Noriaki Kakyoin who is under Dio\'s thrall, Jotaro and Joseph discover that Holly is
+        dying from her own Stand. Jotaro resolves to hunt down Dio, and Joseph leads him, Avdol,
+        and Kakyoin to Egypt, using their Stands to battle more Stand-wielding assassins along the
+        way, gaining allies in the French swordsman Jean Pierre Polnareff who wishes to avenge the
+        death of his sister, and the stray dog Iggy, before 50 days elapse and Holly dies.
+    </string>
+
+    <string name="diamond_is_unbreakable">
+        JoJo\'s Bizarre Adventure volumes 29 to 47. In the fictional Japanese town of Morioh in 1999,
+        Jotaro arrives to reveal to Josuke Higashikata that he is the illegitimate son of Joseph
+        Joestar and to warn him that Morioh is beginning to be filled with Stand users due to a
+        mystical Bow and Arrow that bestows Stands on those struck by the arrowheads. After Josuke
+        takes revenge on a Stand user who killed his grandfather, he agrees to help Jotaro hunt
+        down the holder of the Bow and Arrow, gaining allies in Josuke\'s friend Koichi Hirose, who
+        is hit by the arrow, Okuyasu Nijimura, whose brother was using the Arrow until it was stolen
+        from him, the famous manga artist Rohan Kishibe, and even his estranged father Joseph
+        Joestar. Along the way, the group deals with the various new Stand users throughout Morioh,
+        including several of Josuke, Koichi, and Okuyasu\'s classmates, until the death of one of
+        their friends leads to the discovery that one of the new Stand users is the serial killer,
+        Yoshikage Kira.
+    </string>
+</resources>
